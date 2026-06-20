@@ -1,0 +1,42 @@
+# Build artifacts
+build/
+dist/
+out/
+.cache/
+*.bin
+*.elf
+*.uf2
+*.hex
+*.map
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+secrets.*
+*.key
+*.pem
+api_keys.*
+credentials.*
+
+# KiCad generated backups
+*-backups/
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

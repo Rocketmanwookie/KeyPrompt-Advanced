@@ -1,0 +1,5 @@
+Qty,Category,Item,Economy,Mid-Tier,High-End,Notes
+1,Compute,Local compute module,Raspberry Pi 5 class,Orange Pi 5 Plus / Jetson Orin Nano class,x86 mini PC / high-RAM module,Selection deferred
+1,Storage,Model storage,256 GB,512 GB,1 TB+,NVMe preferred where supported
+1,Cooling,Compute cooling,Heatsink,Heatsink + fan,Ducted active cooling,Required for local LLM
+1,Power,Power expansion,Separate PSU,Internal distribution,Custom protected power PCB,Depends on compute
